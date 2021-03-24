@@ -1,3 +1,12 @@
+Due to mimemagic yanking old releases (because of licensing issues) on 03/24/2021, a number of gems that relied on `v0.3.0` stoped working. In order to get builds working again, I forked the paperclip repo, and adjusted the dependencies for `v5.3.0` of paperclip to use mimemagic `v0.3.6`.
+
+Since paperclip is deprecated, this is temporary. In the future, we will delete this once Rails is updated from version 4.
+
+-Shawn
+
+
+
+
 Paperclip
 =========
 
